@@ -1,4 +1,4 @@
-# STM-GPT
+# STM32-GPT
 
 A playground to easily combine STM32H7 reference manual with GPT4
 
